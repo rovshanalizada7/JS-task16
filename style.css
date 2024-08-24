@@ -58,6 +58,7 @@ li  {
     height: 50px;
     padding: 7px;
     border-radius: 5px;
+    border: 1px solid black;
 }
 a {
     font-size: 25px;
